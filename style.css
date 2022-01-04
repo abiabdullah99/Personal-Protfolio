@@ -1,0 +1,114 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+#toper{
+    display: flex;
+}
+.haif-header{
+    width: 50%;
+
+}
+.haif-header img{
+    width: 80%;
+    margin-top: 50px;
+}
+h1{
+    font-size: 45px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.tech{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+h4{
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+span{
+    color: orange;
+}
+p{
+    text-align: justify;
+    width: 80%;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+.top-banner{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 180px;
+}
+.section-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,tomato,orange);
+    color: #fff;
+    font-size: 19px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.dream-banner{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.haif-top{
+   width: 50%;
+   margin-top: -60px;
+}
+.haif-top img{
+    width: 90%;
+}
+.another-1{
+    width: 40%;
+    margin-left: 100px;
+    margin-top: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.another-1{
+    width: 40%;
+    margin-left: 85px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    height: 370px;
+}
+.another-1 p{
+    width: 90%;
+    padding-left: 20px;
+}
+.another-1 h3{
+    padding-left: 20px;
+    font-weight: 300;
+}
+h2{
+    padding-left: 20px;
+    font-size: 35px; 
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.exper-img{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.full-stack {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 100%;
+    border-image-slice: 1;
+}
+.baby-stack {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 100%;
+    border-image-slice: 1;
+}
+footer p{
+    margin-top: 150px;
+    text-align: center;
+    letter-spacing: 1px;
+    width: 100%;
+}
